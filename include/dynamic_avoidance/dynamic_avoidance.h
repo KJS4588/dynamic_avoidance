@@ -27,7 +27,7 @@
 #include "math.h"
 #include "vector"
 #define _USE_MATH_DEFINES
-#define DIST 6.0
+#define DIST 3.5
 
 using namespace std;
 typedef pcl::PointXYZI PointType;
